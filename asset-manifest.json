@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kiwify/static/css/main.37e1a55a.css",
+    "main.js": "/kiwify/static/js/main.939bc6c2.js",
+    "static/media/logo.png": "/kiwify/static/media/logo.2af0e504c88e8c6147af.png",
+    "index.html": "/kiwify/index.html",
+    "main.37e1a55a.css.map": "/kiwify/static/css/main.37e1a55a.css.map",
+    "main.939bc6c2.js.map": "/kiwify/static/js/main.939bc6c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37e1a55a.css",
+    "static/js/main.939bc6c2.js"
+  ]
+}
